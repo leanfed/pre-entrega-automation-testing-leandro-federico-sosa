@@ -207,4 +207,4 @@ git push -u origin main
 
 ## Autor
 
-Federico Sosa
+Leandro Federico Sosa
